@@ -6,7 +6,7 @@ I'm Bakr abdulrahman Hawari, Mobile application developer for both native and cr
 
 # 👨🏻‍💻 My Works As A mobile App Developer:
 I worked in multi companies on several applications for ecommerce, social media, services apps , sports apps  ...
-on of my personal projects :
+one of my personal projects :
 https://play.google.com/store/apps/details?id=com.hutteenscapp.hutteen&hl=en&gl=US 
 # 👨🏻‍💻 My Works As A Backend Developer:
 Programming backend section for real estate website using PHP programming language ,Laravel framework
