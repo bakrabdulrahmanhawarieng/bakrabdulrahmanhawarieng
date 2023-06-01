@@ -15,10 +15,6 @@ I worked in multi companies on several applications for ecommerce, social media,
 one of my personal projects :
 https://play.google.com/store/apps/details?id=com.hutteenscapp.hutteen&hl=en&gl=US 
 
-# 👨🏻‍💻 My Works As A Backend Developer:
-Programming backend section for real estate website using PHP programming language ,Laravel framework
-Website url :
-https://sakanna.net/ 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bakrabdulrahmanhawarieng&icon=0&color=0)](https://visitcount.itsvg.in)
